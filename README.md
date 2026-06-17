@@ -6,14 +6,15 @@ A minimalist academic landing page featuring an interactive card flip effect bas
 
 ```
 .
-├── index.html              # Main HTML file
+├── index.html             # Main HTML file
 ├── README.md              # This file
 ├── .gitignore             # Git configuration
 │
 ├── assets/
 │   ├── images/
 │   │   └── christine-hauke-sv-65.jpg    # Profile image
-│   └── 02-cv.pdf          # CV document
+│   |   02-cv.pdf          # CV document
+│   └── _cv.pdf            # updated CV document
 │
 └── src/
     ├── css/
